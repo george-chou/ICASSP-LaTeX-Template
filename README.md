@@ -1,8 +1,8 @@
 # icassp2022-latex-template
 Customized ICASSP 2022 Latex template
 
-[![license](https://img.shields.io/github/license/george-chou/Paper-latex-template.svg)](https://github.com/george-chou/Paper-latex-template/blob/master/LICENSE)
-[![CI](https://github.com/george-chou/Paper-latex-template/actions/workflows/blank.yml/badge.svg)](https://github.com/george-chou/Paper-latex-template/actions/workflows/blank.yml)
+[![license](https://img.shields.io/github/license/george-chou/paper-latex-template.svg)](https://github.com/george-chou/paper-latex-template/blob/master/LICENSE)
+[![CI](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml/badge.svg)](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml)
 
 The following style files and templates are available for users of LaTeX and Microsoft Word:
 
