@@ -1,5 +1,5 @@
 # icassp2022-latex-template
-Customized ICASSP 2022 Latex template
+Customized [ICASSP 2022 Latex template](https://2022.ieeeicassp.org/call-for-special-sessions/)
 
 [![license](https://img.shields.io/github/license/george-chou/paper-latex-template.svg)](https://github.com/george-chou/paper-latex-template/blob/master/LICENSE)
 [![CI](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml/badge.svg)](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml)
